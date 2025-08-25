@@ -3,7 +3,9 @@ Deuzem Graduate Admission System
 
 ## Description
 
-* Graduate Admission System was developed with PHP Model View Controller and jQuery. Information system was designed according to Deuzem International application standards.
+* Graduate Admission System was developed with PHP Model View Controller and jQuery. 
+
+Information system was designed according to Deuzem International application standards.
 
 ![Alt text](/screenshot.jpg?raw=true "Application Screenshot")
 
