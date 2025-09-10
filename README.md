@@ -1,5 +1,5 @@
 # Deuzem Graduate Admission[PHP-MySQL]
-Deuzem Graduate Admission System![Alt text]([https://img.shields.io/badge/Released%20in:-2025-blue "Application Screenshot")
+Deuzem Graduate Admission System
 
 
 ## Description
