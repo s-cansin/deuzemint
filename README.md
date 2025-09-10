@@ -1,5 +1,5 @@
 # Deuzem Graduate Admission[PHP-MySQL]
-Deuzem Graduate Admission System![Released in 2025](https://img.shields.io/badge/Released%20in-2025-blue)
+Deuzem Graduate Admission System![Released in 2025](https://img.shields.io/badge/Released%20in-2025-gray)
 
 
 
