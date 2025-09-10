@@ -15,8 +15,7 @@ Information system was designed according to Deuzem International application st
 * Dependencies
   * PHP
   * MySQL
- 
- ![Released in 2025](https://img.shields.io/badge/Released%20in-2025-gray)
+
 ## Features
 * Application Form
 * Admin
